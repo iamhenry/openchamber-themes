@@ -27,8 +27,8 @@
       "subtle": "#1b2225"
     },
     "interactive": {
-      "border": "#4f585e",
-      "borderHover": "#5d666c",
+      "border": "#32383c",
+      "borderHover": "#3b4246",
       "borderFocus": "#a7c080",
       "selection": "#47525880",
       "selectionForeground": "#d3c6aa",
@@ -119,7 +119,7 @@
         "diffRemovedBackground": "#e67e8020",
         "diffModified": "#7fbbb3",
         "diffModifiedBackground": "#7fbbb320",
-        "lineNumber": "#4f585e",
+        "lineNumber": "#32383c",
         "lineNumberActive": "#9aa79d"
       }
     },
@@ -133,7 +133,7 @@
       "inlineCode": "#dbbc7f",
       "inlineCodeBackground": "#22282b",
       "blockquote": "#859289",
-      "blockquoteBorder": "#4f585e",
+      "blockquoteBorder": "#32383c",
       "listMarker": "#dbbc7f99"
     },
     "chat": {
@@ -142,11 +142,11 @@
       "assistantMessage": "#d3c6aa",
       "assistantMessageBackground": "#191e21",
       "timestamp": "#859289",
-      "divider": "#4f585e"
+      "divider": "#32383c"
     },
     "tools": {
       "background": "#191e2180",
-      "border": "#4f585e9d",
+      "border": "#32383c9d",
       "headerHover": "#22282b50",
       "icon": "#9aa79d",
       "title": "#d3c6aa",
@@ -156,7 +156,7 @@
         "addedBackground": "#a7c08025",
         "removed": "#e67e80",
         "removedBackground": "#e67e8025",
-        "lineNumber": "#4f585e"
+        "lineNumber": "#32383c"
       }
     }
   },
