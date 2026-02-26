@@ -137,8 +137,8 @@
       "listMarker": "#dbbc7f99"
     },
     "chat": {
-      "userMessage": "#d3c6aa",
-      "userMessageBackground": "#272e33",
+      "userMessage": "#2b3339",
+      "userMessageBackground": "#2b3339",
       "assistantMessage": "#d3c6aa",
       "assistantMessageBackground": "#272e33",
       "timestamp": "#859289",
