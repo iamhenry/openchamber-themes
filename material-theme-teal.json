@@ -19,9 +19,9 @@
     "surface": {
       "background": "#263238",
       "foreground": "#EEFFFF",
-      "muted": "#2E3C43",
+      "muted": "#263238",
       "mutedForeground": "#546E7A",
-      "elevated": "#2E3C43",
+      "elevated": "#263238",
       "elevatedForeground": "#EEFFFF",
       "overlay": "#00000080",
       "subtle": "#37474F"
@@ -138,7 +138,7 @@
     },
     "chat": {
       "userMessage": "#EEFFFF",
-      "userMessageBackground": "#2E3C43",
+      "userMessageBackground": "#263238",
       "assistantMessage": "#EEFFFF",
       "assistantMessageBackground": "#263238",
       "timestamp": "#546E7A",
