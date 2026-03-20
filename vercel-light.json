@@ -19,12 +19,12 @@
     "surface": {
       "background": "#FFFFFF",
       "foreground": "#171717",
-      "muted": "#FAFAFA",
+      "muted": "#FFFFFF",
       "mutedForeground": "#666666",
       "elevated": "#FFFFFF",
       "elevatedForeground": "#171717",
       "overlay": "#00000020",
-      "subtle": "#FAFAFA"
+      "subtle": "#FFFFFF"
     },
     "interactive": {
       "border": "#EAEAEA",
