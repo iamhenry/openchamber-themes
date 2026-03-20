@@ -138,7 +138,7 @@
     },
     "chat": {
       "userMessage": "#171717",
-      "userMessageBackground": "#ffffff",
+      "userMessageBackground": "#EAEAEA",
       "assistantMessage": "#171717",
       "assistantMessageBackground": "#ffffff",
       "timestamp": "#888888",
